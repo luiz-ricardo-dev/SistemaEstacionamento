@@ -32,6 +32,7 @@ Console.WriteLine("4 - ENCERRAR");
 
 opcao = Console.ReadLine();
 
+//Realizando as opções selecionadas
 switch (opcao)
 {
     case "1":
